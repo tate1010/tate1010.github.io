@@ -1,2 +1,2 @@
 This is my website 
-<img>http://imgur.com/1csWQGg</img>
+![alt tag](http://imgur.com/1csWQGg.jpg)
