@@ -141,21 +141,56 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/resume.pdf\" data-toolbar=\"-mbrBtnMove\">My Resume</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/projects\" data-toolbar=\"-mbrBtnMove\">My Projects</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/gallery\" data-toolbar=\"-mbrBtnMove\">My Gallery</a>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
+          "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts4-6",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#3C3C3C"
           },
-          "text": "Tate Lok- Chun Cheng<br><br>"
+          "text1": "<p><br><br>\n<strong>Contacts</strong><br>\nEmail: hello@tate1010.me&nbsp;&nbsp;&nbsp;&nbsp;<br>\nPhone: (647) 402 -6181<br><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/tate.cheng\">Facebook</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://github.com/tate1010/\">GitHub</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.linkedin.com/in/tate-cheng-94a495126\">Linkedln</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "hello@tate1010.me",
+            "alerts": {
+              "success": "I will try to reply as soon as possible!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me!</a>"
         }
       ]
     }
