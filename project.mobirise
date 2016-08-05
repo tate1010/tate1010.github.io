@@ -97,7 +97,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/4f2941717bb3d58233266212ce6a8484-128x128-90.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p6260028-copy-163x128-80.jpg",
               "height": 128,
               "alt": "",
               "link": "",
@@ -111,7 +111,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.facebook.com/tate.cheng\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
         },
         {
           "_name": "header1",
@@ -193,7 +193,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/andisheh-avini-marianne-boesky-gallery-8-2000x1126-79.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -216,7 +216,7 @@
                 "showTitle": true,
                 "title": "<a href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">ALGONQUIN CAMPING</a>",
                 "showText": true,
-                "text": "3 days 2 night camping trip with highschool buddys",
+                "text": "3 days 2 night camping trip with friends<br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -228,23 +228,9 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "<a href=\"prom2016.html\">PROM 2016- Stellae</a>",
+                "title": "<a href=\"Prom2016.html\">PROM 2016- Stellae</a>",
                 "showText": true,
                 "text": "high school senior prom<br>DEER CREEK GOLF &amp; BANQUET FACLITY",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/20151009-134854-2000x1500-56.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "<p><a href=\"dailylife.html\">M</a>E<a href=\"prom2016.html\"></a></p>",
-                "showText": true,
-                "text": "just me",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -653,7 +639,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.facebook.com/tate.cheng\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
         },
         {
           "_name": "footer1",
@@ -767,7 +753,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.facebook.com/tate.cheng\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
         },
         {
           "_name": "footer1",
@@ -1150,7 +1136,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.facebook.com/tate.cheng\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-20\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
         },
         {
           "_name": "footer1",
