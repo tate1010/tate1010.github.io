@@ -3,7 +3,9 @@
 ![alt tag](http://imgur.com/2LBX8jZ.jpg)
 <p> the audio playing in the background is from inception (Time by Han zimmer)
 
-<H2> It used to look like this</H2>
-<blockquote class="imgur-embed-pub" lang="en" data-id="0rRIYHM"><a href="//imgur.com/0rRIYHM"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<H2> On my first attemped it looked like this instead </H2>
+!<p align="center">
+  <img src="http://imgur.com/1NilNa8.jpg"/>
 
+</p>
 <p> I created the site by using an app first then slowly personalize by editing the html code </P> 
