@@ -16,7 +16,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Welcome to Tate's Webside",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -99,8 +99,8 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/4f2941717bb3d58233266212ce6a8484-128x128-90.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "",
+              "link": "",
               "title": "",
               "linkInNewWindow": false
             },
@@ -111,7 +111,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/projects\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-3\" aria-expanded=\"true\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/projects\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
         },
         {
           "_name": "header1",
@@ -149,7 +149,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=wctRy4XGJ_c&list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&index=14",
@@ -163,30 +163,30 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/13316886-966433506808760-8105009985095558206-o-2000x1334-22.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "PROM 2016- Stellae",
+                "title": "<a href=\"prom2016.html\">PROM 2016- Stellae</a>",
                 "showText": true,
-                "text": "high school senior p rom<br>DEER CREEK GOLF &amp; BANQUET FACLITY",
+                "text": "high school senior prom<br>DEER CREEK GOLF &amp; BANQUET FACLITY",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20150725-145419-2000x1500-10.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "FRIENDS FOREVER",
+                "title": "My Daily Life",
                 "showText": true,
-                "text": "unbreakable friendship :)",
+                "text": "Things I do",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -199,57 +199,803 @@
           "articleLayout": false
         },
         {
-          "_name": "contacts4",
           "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "16px"
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#d14841"
             }
           },
-          "_anchor": "contacts4-6",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-8",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/11c60d1baacff6e76068236b2324e420-2000x1125-78.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Connect With Me",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"http://steamcommunity.com/id/tate1010\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tate.cheng\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://github.com/tate1010/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCq68s-C0-HAhE0tRajxMpSw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/tate1010\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/tate-cheng-94a495126\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#323232",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#444444"
           },
-          "text1": "<p><br><br>\n<strong>Contacts</strong><br>\nEmail: hello@tate1010.me&nbsp;&nbsp;&nbsp;&nbsp;<br>\nPhone: (647) 402 -6181<br><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect with me&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/tate.cheng\">Facebook</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://github.com/tate1010/\">GitHub</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.linkedin.com/in/tate-cheng-94a495126\">Linkedln</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "hello@tate1010.me",
-            "alerts": {
-              "success": "I will try to reply as soon as possible!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
+          "text": "Email : hello@tate1010.me Phone 647-402-6181"
+        }
+      ]
+    },
+    "Prom2016.html": {
+      "settings": {
+        "title": "Prom2016"
+      },
+      "components": [
+        {
+          "_name": "gallery1",
+          "_params": {
+            "spacing": 0,
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13316886-966433506808760-8105009985095558206-o-2000x1334-8-2000x1334-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13316886-966433506808760-8105009985095558206-o-2000x1334-8.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13320851-966433223475455-8936632335548624543-o-2000x1334-89-2000x1334-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13320851-966433223475455-8936632335548624543-o-2000x1334-89.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13323330-966433333475444-1401517907996203998-o-2000x1334-59-2000x1334-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13323330-966433333475444-1401517907996203998-o-2000x1334-59.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13323449-10207942982385010-3573068192594248189-o-2000x1500-41-2000x1500-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13323449-10207942982385010-3573068192594248189-o-2000x1500-41.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13323754-10207942983825046-588689276428629362-o-2000x1500-54-2000x1500-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13323754-10207942983825046-588689276428629362-o-2000x1500-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13324339-606689216156498-1698093199-o-2000x1500-10-2000x1500-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13324339-606689216156498-1698093199-o-2000x1500-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13329483-1170974499621018-5899364970759349591-o-2000x1341-68-2000x1341-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13329483-1170974499621018-5899364970759349591-o-2000x1341-68.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13329579-943909619063853-4510924513585760251-o-2000x1333-97-2000x1333-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13329579-943909619063853-4510924513585760251-o-2000x1333-97.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13340786-887882261337791-1919849230-o-2000x1125-21-2000x1125-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13340786-887882261337791-1919849230-o-2000x1125-21.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13346290-1170974672954334-2710310317497017566-o-2000x1341-54-2000x1341-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13346290-1170974672954334-2710310317497017566-o-2000x1341-54.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13350479-1170974749620993-8611129441761209992-o-2000x1341-82-2000x1341-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13350479-1170974749620993-8611129441761209992-o-2000x1341-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-01-2000x2768-10-2000x2768-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-01-2000x2768-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-185533-2000x1500-23-2000x1500-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-185533-2000x1500-23.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-185748-2000x1500-42-2000x1500-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-185748-2000x1500-42.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-191700-2000x1500-19-2000x1500-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-191700-2000x1500-19.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-192200-2000x1500-93-2000x1500-76.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-192200-2000x1500-93.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-192334-2000x1500-68-2000x1500-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-192334-2000x1500-68.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-193408-2000x1500-5-2000x1500-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-193408-2000x1500-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-195631-2000x1500-84-2000x1500-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-195631-2000x1500-84.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-195647-2000x1500-86-2000x1500-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-195647-2000x1500-86.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-200955-2000x1500-7-2000x1500-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-200955-2000x1500-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-201307-2000x1500-0-2000x1500-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-201307-2000x1500-0.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-205140-2000x1500-57-2000x1500-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-205140-2000x1500-57.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-205419-2000x1500-82-2000x1500-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-205419-2000x1500-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160602-222158-2000x1500-30-2000x1500-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160602-222158-2000x1500-30.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9721-2000x1335-18-2000x1335-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9721-2000x1335-18.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-9726-2000x1335-68-2000x1335-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-9726-2000x1335-68.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-6",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact me!</a>"
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4f2941717bb3d58233266212ce6a8484-128x128-90.jpg",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/projects\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Email : hello@tate1010.me Phone 647-402-6181"
+        }
+      ]
+    },
+    "Camping.html": {
+      "settings": {
+        "title": "Algonquin Camping"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4f2941717bb3d58233266212ce6a8484-128x128-90.jpg",
+              "height": 128,
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/projects\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"index.html#slider-3\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">Algonquin Camping</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prom2016.html\">Prom 2016</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#social-buttons2-8\">Connect with me<br></a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Email : hello@tate1010.me Phone 647-402-6181"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            },
+            "P": {
+              "color": "#000000",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_name": "header6",
+          "_anchor": "header6-13",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20160717-094501-2000x1500-62.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/20160717-094548-1400x1050-55.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=fkX1GQI46cY&index=1&list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ALGONQUIN CAMPING",
+          "text": "ft <br>Kevin Pei<br>Susan Li<br>Simon Song<br>Lillian Zheng<br>Jason Pan",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;index=1&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU\" data-toolbar=\"-mbrBtnMove\">Youtube Play List</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-053941-2000x1500-86-2000x1500-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-053941-2000x1500-86.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160715-083539-2000x1500-85-2000x1500-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160715-083539-2000x1500-85.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160715-213621-2000x1500-23-2000x1500-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160715-213621-2000x1500-23.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160715-213648-2000x1500-62-2000x1500-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160715-213648-2000x1500-62.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-054011-2000x1500-71-2000x1500-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-054011-2000x1500-71.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-054014-2000x1500-22-2000x1500-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-054014-2000x1500-22.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-054023-2000x1500-66-2000x1500-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-054023-2000x1500-66.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-062147-2000x1500-80-2000x1500-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-062147-2000x1500-80.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-074251-2000x1500-69-2000x1500-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-074251-2000x1500-69.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-074329-2000x1500-42-2000x1500-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-074329-2000x1500-42.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160716-082406-2000x1500-18-2000x1500-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160716-082406-2000x1500-18.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-094501-2000x1500-82-2000x1500-26.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-094501-2000x1500-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-094510-2000x1500-61-2000x1500-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-094510-2000x1500-61.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-094521-2000x1500-27-2000x1500-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-094521-2000x1500-27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-094558-2000x1500-14-2000x1500-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-094558-2000x1500-14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-094558-2000x1500-91-2000x1500-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-094558-2000x1500-91.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-110944-2000x1500-62-2000x1500-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-110944-2000x1500-62.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-110948-2000x1500-28-2000x1500-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-110948-2000x1500-28.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-110957-2000x1500-96-2000x1500-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-110957-2000x1500-96.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-122358-2000x1500-0-2000x1500-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-122358-2000x1500-0.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160717-122359-2000x1500-15-2000x1500-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160717-122359-2000x1500-15.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#000000",
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-15",
+          "articleLayout": false
         }
       ]
     }
