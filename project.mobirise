@@ -92,7 +92,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -111,7 +111,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tate Cheng<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Resume<br></a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Gallery</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Prom<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Algonquin Camping<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Me</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/projects\">My projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/resume.pdf\">Resume<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#slider-3\" aria-expanded=\"true\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">Contact</a></li>"
         },
         {
           "_name": "header1",
@@ -138,13 +138,72 @@
           },
           "title": "HI IM TATE CHENG",
           "text": "Hi there! I am Tate Cheng, a mathematics student at Unversity of Waterloo. <br>During my free time I love playing video games or code random stuff. <br>I also enjoy playing the guitar, snowboarding, watching anime and much more .<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/resume.pdf\" data-toolbar=\"-mbrBtnMove\">My Resume</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/projects\" data-toolbar=\"-mbrBtnMove\">My Projects</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/gallery\" data-toolbar=\"-mbrBtnMove\">My Gallery</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/resume.pdf\" data-toolbar=\"-mbrBtnMove\">My Resume</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"/projects\" data-toolbar=\"-mbrBtnMove\">My Projects</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider-3\" data-toolbar=\"-mbrBtnMove\">My Gallery</a>"
+        },
+        {
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=wctRy4XGJ_c&list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&index=14",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<a href=\"https://www.youtube.com/watch?v=fkX1GQI46cY&amp;list=PL87wH4-rCdzEmJrzEsWGfnrKwSFwIRpVU&amp;index=1\">ALGONQUIN CAMPING</a>",
+                "showText": true,
+                "text": "3 days 2 night camping trip with highschool buddys",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/13316886-966433506808760-8105009985095558206-o-2000x1334-22.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "PROM 2016- Stellae",
+                "showText": true,
+                "text": "high school senior p rom<br>DEER CREEK GOLF &amp; BANQUET FACLITY",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FRIENDS FOREVER",
+                "showText": true,
+                "text": "unbreakable friendship :)",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-3",
+          "articleLayout": false
         },
         {
           "_name": "contacts4",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "16px"
             }
           },
           "_anchor": "contacts4-6",
@@ -161,7 +220,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<p><br><br>\n<strong>Contacts</strong><br>\nEmail: hello@tate1010.me&nbsp;&nbsp;&nbsp;&nbsp;<br>\nPhone: (647) 402 -6181<br><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/tate.cheng\">Facebook</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://github.com/tate1010/\">GitHub</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.linkedin.com/in/tate-cheng-94a495126\">Linkedln</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Connect with me&nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/tate.cheng\">Facebook</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://github.com/tate1010/\">GitHub</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.linkedin.com/in/tate-cheng-94a495126\">Linkedln</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "hello@tate1010.me",
