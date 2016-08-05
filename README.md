@@ -4,6 +4,6 @@
 <p> the audio playing in the background is from inception (Time by Han zimmer)
 
 <H2> It used to look like this</H2>
-![alt tag](http://imgur.com/0rRIYHM.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="0rRIYHM"><a href="//imgur.com/0rRIYHM"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <p> I created the site by using an app first then slowly personalize by editing the html code </P> 
