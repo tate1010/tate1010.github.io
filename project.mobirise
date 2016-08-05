@@ -236,17 +236,17 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/20150725-145419-2000x1500-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20151009-134854-2000x1500-56.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": true,
-                "title": "Daily Life",
+                "title": "<p><a href=\"dailylife.html\">M</a>E<a href=\"prom2016.html\"></a></p>",
                 "showText": true,
-                "text": "Things I do",
+                "text": "just me",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
@@ -1221,7 +1221,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/20160304-160939-2000x1500-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160108-221255-2000x1500-95.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1235,7 +1235,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-20160411-225615-2000x1333-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13516202-10208752229515346-2192838483943558666-n-1-2000x1500-35.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
