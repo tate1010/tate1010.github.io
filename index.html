@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-  <audio controls autoplay loop>
+  <audio id = "music" controls autoplay loop>
     <source src="Background.mp3" type="audio/mpeg"/>
 
   </audio>
@@ -70,10 +70,24 @@
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="index.html">Home</a></li><li class="nav-item dropdown open">
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" onclick="pauseAudio()">
+                  Music
+                  </a></li><li class="nav-item"><a class="nav-link link" href="index.html">Home</a></li><li class="nav-item dropdown open">
                       <a class="nav-link link dropdown-toggle" data-toggle="dropdown-submenu" href="" aria-expanded="true">About Me</a><div class="dropdown-menu">
                         <a class="dropdown-item" href="index.html#slider-20">My projects</a>
                         <a class="dropdown-item" href="/resume.pdf">Resume<br></a>
+                        <script>
+                        var x = document.getElementById("music");
+                        var playing = true;
+                        function pauseAudio() {
+                            if(playing ==true){
+                            x.pause();
+                             playing = false;
+                            }
+                            else{x.play();
+                            playing = true;}
+                        }
+                        </script>
 
                         <div class="dropdown"><a class="dropdown-item dropdown-toggle" href="index.html#slider-3" aria-expanded="false" data-toggle="dropdown-submenu">Gallery</a><div class="dropdown-menu dropdown-submenu"><a class="dropdown-item" href="Camping.html">Algonquin Camping</a><a class="dropdown-item" href="Prom2016.html">Prom 2016</a></div>
                    <a class="dropdown-item" href="Games.html">My Gaming journey<br></a>
