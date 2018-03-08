@@ -12,18 +12,26 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		    <link rel="stylesheet" href="assets/css/style.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<script
+	src="https://code.jquery.com/jquery-2.2.4.js"></script>
 		<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 	</head>
 	<body class="is-loading">
 
 		<!-- Wrapper -->
+
 			<div id="wrapper">
 
 				<!-- Main -->
-					<section id="main">
+
+						<div class="flip">
+							<div class="card">
+								<div class="face front">
+									<section id="main">
 						<header>
 							<span class="avatar"><img class ="avatar" src="images/self.jpg" alt="" /></span>
 							<h1>Tate Cheng</h1>
@@ -81,14 +89,37 @@
 						</footer>
 					</section>
 
+	</div>
+				<div class="face back">
+					<section id="main">
+						<header>
+							<span class="avatar"><img class ="avatar" src="images/self.jpg" alt="" /></span>
+							<h1>Tate Cheng</h1>
+							<p>Software Developer</p>
+						</header>
+						<ul class='icons'>
+
+
+							<li><a href="https://github.com/tate1010" class="fa-github">Github</a></li>
+							<li><a href="TateChengResume.pdf"  class="fa-file"></a></li>
+
+							<li><a href="https://www.linkedin.com/in/tate-cheng" class="fa-linkedin">linkedin</a></li>
+							<li><a href="https://www.linkedin.com/in/tate-cheng" class="fa-gamepad">linkedin</a></li>
+
+
+						</ul>
+						</section>
+				</div>
+				</div>
+
+			</div>
+				
 				<!-- Footer -->
 					<footer id="footer">
 						<ul class="copyright">
 							<li> Tate Cheng</li><li> <a href="#">tate1010.github.io</a></li>
 						</ul>
 					</footer>
-
-			</div>
 
 		<!-- Scripts -->
 			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
@@ -98,6 +129,7 @@
 					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
 				}
 			</script>
+		  <script src="assets/js/flip.js"></script>
 
 	</body>
 </html>
