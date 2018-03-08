@@ -1,4 +1,4 @@
 /* card flip */
-$("body").click(function(){
+$(".flip").click(function(){
   $(this).find(".card").toggleClass("flipped");
 });
