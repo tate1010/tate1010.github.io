@@ -9,8 +9,6 @@
   max-width: 250px;
 	height: 25%;
 	position: absolute;
-  transform: translateX(-11%)
-
 }
 
 .flip .card.flipped {
